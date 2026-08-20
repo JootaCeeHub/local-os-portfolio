@@ -1,6 +1,6 @@
 # Personal Hub
 
-> **Curated public portfolio version.** This repository is a sanitized, non-production showcase extracted from the private source (`PERSONAL-HUB`). It intentionally excludes infrastructure, configuration, credentials, and internal history.
+> **Curated public portfolio version.** This repository is a sanitized, non-production showcase extracted from 1 private source repositoryy. It intentionally excludes infrastructure, configuration, credentials, and internal history.
 
 **Local-first personal operating system**
 
@@ -31,7 +31,6 @@ React · TypeScript · Vite · Zustand
 - Typed TypeScript architecture with reusable component system
 - Client-first product experience with service abstractions for future backends
 - Modern build tooling and code-quality conventions
-- Verified with tests where included in this showcase
 
 ## Portfolio Context
 
