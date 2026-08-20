@@ -88,7 +88,7 @@ La base del proyecto sigue una arquitectura modular de frontend:
 ```bash
 # 1) Clonar repositorio
 git clone <your-repository-url>
-cd PERSONAL-HUB
+cd personal-hub-portfolio
 
 # 2) Instalar dependencias
 npm install
@@ -123,7 +123,7 @@ npm run preview
 
 ## Project Structure
 ```text
-PERSONAL-HUB/
+personal-hub-portfolio/
 ├─ public/                    # Assets estáticos (ej. robots.txt)
 ├─ src/
 │  ├─ components/             # Módulos UI principales + UI compartida + bloques marketing
